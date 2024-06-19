@@ -1,4 +1,14 @@
 # 23b2231_.LLM
 
 # Machine Learning
-## djj
+## Basics of Machine Learning
+
+## Types of Machine Learning
+
+## Supervised Learning
+
+## Unsupervised Learning
+
+## Reinforcement Learning
+
+
