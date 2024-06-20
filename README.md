@@ -1,7 +1,11 @@
 # 23b2231_.LLM
 
+<p style="font-family: Times New Roman;">
+  
 # Machine Learning
+  
 ## Basics of Machine Learning
+
 #### Machine learning (ML) is a subset of artificial intelligence (AI) that involves the development of algorithms and statistical models enabling computers to perform specific tasks without explicit instructions. Instead, ML systems learn from and make decisions based on data. The primary goal of ML is to allow computers to learn and adapt through experience, improving their performance over time. ML is utilized in various applications, from recommendation systems and image recognition to autonomous vehicles and natural language processing, making it a crucial technology in today's data-driven world.
 
 ## Types of Machine Learning
@@ -47,6 +51,13 @@
 
 ## Activation Functions and Derivation
 #### Activation functions introduce non-linearity into neural networks, allowing them to model complex data. Common activation functions include the sigmoid, hyperbolic tangent (tanh), and rectified linear unit (ReLU). The sigmoid function outputs values between 0 and 1, making it useful for binary classification. Tanh outputs values between -1 and 1, often used in hidden layers. ReLU outputs the input directly if positive, otherwise zero, which helps mitigate the vanishing gradient problem. The derivatives of these functions are essential for the backpropagation algorithm.
+
+
+
+</p>
+
+
+
 
 
 
