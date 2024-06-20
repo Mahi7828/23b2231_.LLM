@@ -69,7 +69,8 @@ In deep learning frameworks like TensorFlow or PyTorch, tokenization is often im
 ### PunkT library:
 The PunkT library, part of the NLTK (Natural Language Toolkit), is specifically designed for sentence tokenization in natural language processing tasks. Sentence tokenization involves splitting a text into individual sentences. The PunkT algorithm uses unsupervised learning techniques to learn parameters for sentence boundary detection from large corpora of text.
 
-### The TreebankWordTokenizer is an NLTK tokenizer that follows the Penn Treebank corpus conventions. It splits text into individual words and punctuation, handling contractions and hyphenated words consistently. It’s commonly used for NLP tasks that require standard tokenization rules, such as preparing data for models trained on Treebank-style datasets. This tokenizer is integrated into NLTK, making it easily accessible for text processing in Python.
+### The TreebankWordTokenizer:
+It is an NLTK tokenizer that follows the Penn Treebank corpus conventions. It splits text into individual words and punctuation, handling contractions and hyphenated words consistently. It’s commonly used for NLP tasks that require standard tokenization rules, such as preparing data for models trained on Treebank-style datasets. This tokenizer is integrated into NLTK, making it easily accessible for text processing in Python.
 
 ## STEMMING:
 Stemming is a text normalization process in natural language processing (NLP) that reduces words to their base or root form. The goal of stemming is to strip affixes (prefixes, suffixes, infixes, and circumfixes) from words to create a common base form. This helps in reducing the number of unique words in a dataset, thereby simplifying text processing and analysis.
